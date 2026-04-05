@@ -1,5 +1,5 @@
-![Phish Hunter Badge 1](phish-hunter-badge%201.png)
-![Phish Hunter Badge 2](phish-hunter-badge%202.png)
+
+
 # Phishing Email Analysis – Greenholt Phish (TryHackMe)
 
 ## 🛡️ Overview
