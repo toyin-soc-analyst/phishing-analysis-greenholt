@@ -1,4 +1,11 @@
+## 🏆 Achievement
+![Phish Hunter Badge](badge.png)
 
+## 📊 Lab Completion
+![Completion](completion.png)
+
+## 🔍 Malware Analysis Result
+![VirusTotal Result](virustotal.png)
 
 # Phishing Email Analysis – Greenholt Phish (TryHackMe)
 
